@@ -37,6 +37,7 @@ not code
 
 - webacademy
 - RS Schools corse
+- CS50
 
 ###Languages
 
