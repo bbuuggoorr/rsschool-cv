@@ -27,6 +27,7 @@ At the moment there is a goal to change the profession towards IT technologies
 - Git, GitHub
 - HTML5,CSS
 - VS Code
+- Figma
 
 ###Code example
 
