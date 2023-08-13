@@ -1,12 +1,12 @@
-#[RSSCHOOL-CV](https://rs.school/)
+# [RSSCHOOL-CV](https://rs.school/)
 
 ---
 
-##**Sergey Bugor**
+## **Sergey Bugor**
 
 ---
 
-###Contacts
+### Contacts
 
 - **_Location:_** Yekaterinburg, Russia
 - **_Phone:_** +79045678934
@@ -14,7 +14,7 @@
 
 ---
 
-##About me
+## About me
 
 I work as an engineer at VSMPO Corporation.
 I have a degree in electrical engineering.
@@ -22,23 +22,23 @@ At the moment there is a goal to change the profession towards IT technologies
 
 ---
 
-##My Skills
+## My Skills
 
 - Git, GitHub
 - HTML5,CSS
 - VS Code
 - Figma
 
-###Code example
+### Code example
 
 not code
 
-###Courses
+### Courses
 
 - webacademy
 - RS Schools corse
 - CS50
 
-###Languages
+### Languages
 
 B1
